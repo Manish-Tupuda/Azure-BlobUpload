@@ -1,1 +1,1 @@
-Azure program to upload json data to blob storage 
+C# program to upload json data into azure blob storage using terraform
