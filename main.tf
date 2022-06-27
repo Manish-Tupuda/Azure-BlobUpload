@@ -1,5 +1,5 @@
 data "azurerm_resource_group" "sample" {
-  name     = "woordurff_Sawyer"
+  name     = "Manish"
 }
 resource "azurerm_storage_account" "inbox" {
   name                      = "manish2"
